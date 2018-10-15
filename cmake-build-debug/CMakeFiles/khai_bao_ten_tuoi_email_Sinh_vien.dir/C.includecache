@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Quoc Trung/CLionProjects/khai_bao_ten_tuoi_email_Sinh_vien/main.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+

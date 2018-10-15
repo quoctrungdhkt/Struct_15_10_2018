@@ -1,0 +1,3 @@
+C:/Users/Quoc Trung/CLionProjects/khai_bao_ten_tuoi_email_Sinh_vien/cmake-build-debug/CMakeFiles/khai_bao_ten_tuoi_email_Sinh_vien.dir
+C:/Users/Quoc Trung/CLionProjects/khai_bao_ten_tuoi_email_Sinh_vien/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Quoc Trung/CLionProjects/khai_bao_ten_tuoi_email_Sinh_vien/cmake-build-debug/CMakeFiles/rebuild_cache.dir

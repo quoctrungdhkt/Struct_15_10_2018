@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\khai_bao_ten_tuoi_email_Sinh_vien.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\khai_bao_ten_tuoi_email_Sinh_vien.dir/objects.a @CMakeFiles\khai_bao_ten_tuoi_email_Sinh_vien.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\khai_bao_ten_tuoi_email_Sinh_vien.dir/objects.a -Wl,--no-whole-archive  -o khai_bao_ten_tuoi_email_Sinh_vien.exe -Wl,--out-implib,libkhai_bao_ten_tuoi_email_Sinh_vien.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\khai_bao_ten_tuoi_email_Sinh_vien.dir\linklibs.rsp
